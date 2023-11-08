@@ -24,6 +24,8 @@ export const App = () => {
       <Filter />
       <ContactList />
       <Toaster />
+
+      
     </div>
   );
 };
