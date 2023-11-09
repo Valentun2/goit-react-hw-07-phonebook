@@ -1,5 +1,4 @@
 export const getContacts = state => {
-  // console.log(state.contacts.arrContact);
   return state.contacts ?? [];
 };
 
